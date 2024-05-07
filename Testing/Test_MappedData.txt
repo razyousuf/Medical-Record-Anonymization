@@ -1,0 +1,105 @@
+Anonymizing the full names (as x.1): 
+1.1: Ms. Sarah-Evans
+2.1: Mr. William-Turner
+3.1: Mr. Michael Rodriguez
+4.1: Ms. Emily Johnson
+5.1: Mr. James Brown
+6.1: Mr. John Smith
+7.1: Mr. Alex Max
+8.1: Ms. Emily Johnson
+9.1: Mr. William Turner
+10.1: Mr. Michael Rodriguez
+11.1: Mr. James Newton
+12.1: Dr. Elon Musk
+13.1: Mr. Mark Ford
+14.1: Mr. Yun Ng
+15.1: Mr. Ahmed Radi
+16.1: Mr. John Forst
+17.1: Mr. Joe DrinkingWater
+18.1: Mr. Alen Maxwell
+19.1: Dr. Jule Smith
+20.1: Mrs. Barba Well
+
+
+Anonymizing the Ages/DoBs (as x.2): 
+1.2: 21-04-2016
+2.2: 23/03/2002
+3.2: 50
+4.2: 60
+5.2: 35
+6.2: 45
+7.2: 59
+8.2: 60
+9.2: 65
+10.2: 50
+11.2: 40
+12.2: 50
+13.2: 60
+14.2: 55
+15.2: 45
+16.2: 70
+17.2: 55
+18.2: 60
+19.2: 50
+20.2: 65
+
+
+Anonymizing the Addresses With- or Without Postal Codes(as x.3): 
+1.3: 321 Elm Street, Apt. 456, PO Box 789, Chicago, IL
+2.3: 654 Birch Street, Apt# 776, Boston, MA
+3.3: 987 Cedar Lane, Houston, TX
+4.3: 789 Oak Avenue, Los Angeles, CA
+5.3: 456 Pine Street, Miami, FL
+6.3: 123 Maple Street, New York, NY
+7.3: 55 Penny Lane, Liverpool, UK
+8.3: 789 Oak Avenue, Los Angeles, CA
+9.3: 654 Birch Street, Boston, MA
+10.3: 987 Cedar Lane, Houston, TX
+11.3: 123 Oak Street, San Francisco, CA
+12.3: Los Angeles, CA
+13.3: 456 Maple Avenue, Seattle, WA
+14.3: 789 Pine Road, Chicago, IL
+15.3: 321 Elm Street, Miami, FL
+16.3: 987 Cedar Lane, Dallas, TX
+17.3: 55 Penny Lane, Liverpool, UK
+18.3: 321 Oak Avenue, New York, NY
+19.3: 654 Maple Street, San Francisco, CA
+20.3: 789 Pine Road, Los Angeles, CA
+
+
+Anonymizing the referenced Firstnames/Lastnames (as x.4): 
+1.4: Sarah
+2.4: Mr. William
+2.4: William
+3.4: Mr. Michael
+3.4: Michael
+4.4: Ms. Emily
+4.4: Emily
+5.4: Mr. James
+5.4: James
+6.4: Mr. Smith
+6.4: John
+7.4: Mr. Max
+12.4: Dr. Elon
+13.4: Mr. Mark
+14.4: Mr. Yun
+15.4: Ahmed
+17.4: Mr. Joe
+18.4: Mr. Alen
+19.4: Dr. Jule
+20.4: Mrs. Barba
+
+
+Anonymizing National Insurance Numbers (NIN) (as x.5): 
+1.5: QQ 123456 C
+2.5: AA123456D
+
+
+Anonymizing Phone Numbers (as x.6): 
+1.6: 222-333-4444
+2.6: 423.446.7800
+
+
+Anonymizing Email Addresses (as x.7): 
+1.7: sarah@lhu.ac.uk
+2.7: william_123@gmail.com
