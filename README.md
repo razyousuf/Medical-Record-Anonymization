@@ -82,21 +82,23 @@ java AnonymizationTool
 ## Input and Output Example
 
 **Input (`PatientNotes.txt`):**
-
+```bash
 Ms. Emily Johnson, 34-year-old, lives at 123 Elm Street, New York, NY.
 Dr. Elon Musk, aged 45, can be contacted at 555-123-4567 or elon.m@company.com.
 Mr. William Turner visited on 05/12/2023.
 Ms. Emily Johnson visited again on 05/15/2023.
-
+```
 
 **Sample Output (`AnonymizedData.txt`):**
+```bash
 1.1, 34-year-old, lives at 1.3.
 2.1, aged 45, can be contacted at 1.6 or 1.7.
 3.1 visited on 1.2.
 4.1 visited again on 2.2.
-
+```
 
 **Sample Mapping (`MappedData.txt`):**
+```bash
 1.1: Ms. Emily Johnson
 2.1: Dr. Elon Musk
 3.1: Mr. William Turner
@@ -106,7 +108,7 @@ Ms. Emily Johnson visited again on 05/15/2023.
 1.7: elon.m@company.com
 1.2: 05/12/2023
 2.2: 05/15/2023
-
+```
 
 ---
 
