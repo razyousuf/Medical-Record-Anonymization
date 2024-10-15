@@ -13,7 +13,6 @@ It replaces personal information such as **names, dates of birth, addresses, pho
 - [Setup and Usage](#setup-and-usage)
 - [Input and Output Example](#input-and-output-example)
 - [Limitations](#limitations)
-- [Contributors](#contributors)
 
 ---
 
@@ -117,13 +116,6 @@ Ms. Emily Johnson visited again on 05/15/2023.
 - **Sensitive information detection** depends on the accuracy of regular expressions, so the tool may miss non-standard data formats.
 - **Anonymization is irreversible**, meaning the original data cannot be restored from the anonymized output.
 - Only supports English-language text; might not work well with other languages.
-
----
-
-## Contributors
-
-- **Dr. Hamzah AlZu’bi**  
-- **Raz Yousufi**  
 
 ---
 
